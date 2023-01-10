@@ -1,0 +1,9 @@
+TMATROM development (~/Stuart/Matlab/tmatrom_development/working/Source/)
+2023-01-10 06:38:50 [PASS] license_matlab.txt example_rom_nystrom_absorbing_bistatic.m
+2023-01-10 06:38:50 [PASS] license_matlab.txt example_rom_nystrom_absorbing_monostatic.m
+2023-01-10 06:38:50 [PASS] license_matlab.txt example_rom_nystrom_multiple_config.m
+2023-01-10 06:38:50 [PASS] license_matlab.txt example_rom_nystrom_rotation_translation.m
+2023-01-10 06:38:50 [PASS] license_matlab.txt example_rom_nystrom_soundhard_bistatic.m
+2023-01-10 06:38:50 [PASS] license_matlab.txt example_rom_nystrom_soundhard_monostatic.m
+2023-01-10 06:38:50 [PASS] license_matlab.txt example_rom_nystrom_soundsoft_bistatic.m
+2023-01-10 06:38:50 [PASS] license_matlab.txt example_rom_nystrom_soundsoft_monostatic.m
